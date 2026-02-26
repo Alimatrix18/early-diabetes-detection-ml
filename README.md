@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This project was developed as part of the ICT 2210Y Artificial Intelligence module at the University of Mauritius and completed collaboratively as a group academic assignment.
+This project was developed as part of the ICT 2210Y Artificial Intelligence module at the University of Mauritius and carried out as a group assignment.
 
-The objective was to develop a machine learning system for early diabetes risk prediction using multiple heterogeneous healthcare datasets. Individual classification models were evaluated on each dataset, and the best-performing models were integrated into a weighted ensemble to improve predictive stability and generalisation.
+The objective was to develop a machine learning system for early diabetes risk prediction using multiple heterogeneous healthcare datasets. Individual classification models were evaluated across each dataset, and the best-performing models were integrated into a weighted ensemble to improve predictive stability and generalisation.
 
 This repository contains the Flask-based deployment of the final trained ensemble model for real-time diabetes risk prediction.
 
